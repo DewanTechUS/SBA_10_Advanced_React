@@ -280,3 +280,78 @@
 // React documentation
 // https://react.dev/learn/scaling-up-with-reducer-and-context
 // Learn how this pattern scales for features like favorites, auth, and themes.
+
+// Functional components
+// Official React documentation
+// https://react.dev/learn/your-first-component
+// Learn how to define and return UI from a function-based React component.
+
+// JSX syntax
+// Official React documentation
+// https://react.dev/learn/writing-markup-with-jsx
+// Learn how JSX lets you write HTML-like syntax inside JavaScript.
+
+// Conditional rendering
+// Official React documentation
+// https://react.dev/learn/conditional-rendering
+// Learn how components like Spinner are shown or hidden based on state such as loading.
+
+// Reusable components
+// React documentation
+// https://react.dev/learn/describing-the-ui
+// Learn how small components can be reused across different parts of an application.
+
+// CSS classes in React
+// React documentation
+// https://react.dev/learn/adding-styles-and-css
+// Learn how className connects JSX elements to CSS styles.
+
+// Separation of concerns
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Glossary/Separation_of_concerns
+// Learn why UI logic and styling should be separated into different files.
+
+// User experience feedback
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Learn/Performance/Loading
+// Learn why showing loading indicators improves perceived performance.
+
+// Functional components
+// Official React documentation
+// https://react.dev/learn/your-first-component
+// Learn how to create reusable UI using function-based React components.
+
+// Props in React
+// Official React documentation
+// https://react.dev/learn/passing-props-to-a-component
+// Learn how data is passed into components and used to render dynamic content.
+
+// Default props and destructuring
+// JavaScript documentation
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
+// Learn how to set default values for parameters using JavaScript destructuring.
+
+// JSX expressions
+// Official React documentation
+// https://react.dev/learn/writing-markup-with-jsx
+// Learn how to embed JavaScript values inside JSX using curly braces.
+
+// Reusable components
+// React documentation
+// https://react.dev/learn/describing-the-ui
+// Learn how components can be reused across multiple pages and features.
+
+// CSS classes in React
+// React documentation
+// https://react.dev/learn/adding-styles-and-css
+// Learn how className connects JSX elements to CSS styles.
+
+// Error handling in UI
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling
+// Learn how errors are handled and displayed in user interfaces.
+
+// User experience and error feedback
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+// Learn why clear error messages improve usability and user experience.
