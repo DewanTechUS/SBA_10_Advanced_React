@@ -62,6 +62,12 @@ The application uses **React Router** with both static and dynamic routes:
 - `/favorites` - Favorite recipes
 - `/search?query=` - Search results
 
+## How to Run the Project
+
+1. Open the project in the root folder  
+2. Install dependencies: `npm install`  
+3. Start the app: `npm run dev`  
+4. Open the local URL shown in the terminal (usually http://localhost:5173)
 ## Reflection
 
 This project was one of the most challenging and educational experiences in my React learning journey.
