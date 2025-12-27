@@ -399,7 +399,6 @@
 // Input validation and sanitization
 // MDN Web Docs
 // https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
-
 // Learn how to prevent empty or invalid form submissions.
 
 // Accessibility basics (ARIA)
@@ -411,3 +410,53 @@
 // MDN Web Docs
 // https://developer.mozilla.org/en-US/docs/Glossary/Separation_of_concerns
 // Learn how to keep logic, navigation, and UI cleanly organized.
+
+// Functional components
+// Official React documentation
+// https://react.dev/learn/your-first-component
+// Learn how to create reusable UI using function-based React components.
+
+// Props in React
+// Official React documentation
+// https://react.dev/learn/passing-props-to-a-component
+// Learn how data is passed into components using props.
+
+// Component composition
+// React documentation
+// https://react.dev/learn/describing-the-ui
+// Learn how components are combined together to build complex interfaces.
+
+// Link component (dynamic routing)
+// React Router documentation
+// https://reactrouter.com/en/main/components/link
+// Learn how to navigate using dynamic paths like /recipe/:id.
+
+// Dynamic route parameters
+// React Router documentation
+// https://reactrouter.com/en/main/route/route
+// Learn how route parameters work in URLs.
+
+// Rendering API data
+// React documentation
+// https://react.dev/learn/rendering-lists
+// Learn how to render dynamic data returned from an API.
+
+// Separation of concerns
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Glossary/Separation_of_concerns
+// Learn how UI logic and navigation logic are separated.
+
+// Accessibility with images
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+// Learn why alt attributes improve accessibility.
+
+// CSS classes in React
+// React documentation
+// https://react.dev/learn/adding-styles-and-css
+// Learn how className connects JSX to CSS styling.
+
+// Reusable UI patterns
+// React documentation
+// https://react.dev/learn/thinking-in-react
+// Learn how to design reusable components for scalability.
