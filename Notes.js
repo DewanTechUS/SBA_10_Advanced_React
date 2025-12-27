@@ -355,3 +355,59 @@
 // MDN Web Docs
 // https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
 // Learn why clear error messages improve usability and user experience.
+
+// Functional components
+// Official React documentation
+// https://react.dev/learn/your-first-component
+// Learn how to define reusable UI using function-based React components.
+
+// useState hook
+// Official React documentation
+// https://react.dev/reference/react/useState
+// Learn how to manage component state, especially for form inputs.
+
+// Controlled form inputs
+// Official React documentation
+// https://react.dev/learn/sharing-state-between-components#controlled-and-uncontrolled-components
+// Learn how input values are controlled by React state instead of the DOM.
+
+// Handling form submissions
+// React documentation
+// https://react.dev/learn/responding-to-events
+// Learn how to handle events and prevent default browser behavior.
+
+// Link component (client-side navigation)
+// React Router documentation
+// https://reactrouter.com/en/main/components/link
+// Learn how to navigate between pages without reloading the page.
+
+// useNavigate hook
+// React Router documentation
+// https://reactrouter.com/en/main/hooks/use-navigate
+// Learn how to navigate programmatically based on user actions.
+
+// Query strings in URLs
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams
+// Learn how data is passed through URLs using query parameters.
+
+// encodeURIComponent
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
+// Learn how to safely encode user input for use in URLs.
+
+// Input validation and sanitization
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+
+// Learn how to prevent empty or invalid form submissions.
+
+// Accessibility basics (ARIA)
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+// Learn how aria attributes improve accessibility for screen readers.
+
+// Separation of concerns in components
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Glossary/Separation_of_concerns
+// Learn how to keep logic, navigation, and UI cleanly organized.
