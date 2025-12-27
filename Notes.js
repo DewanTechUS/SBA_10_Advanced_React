@@ -220,3 +220,63 @@
 // React documentation
 // https://react.dev/learn/reusing-logic-with-custom-hooks
 // Learn why returning [value, setValue] makes the custom hook work just like useState.
+
+// React Context API
+// Official React documentation
+// https://react.dev/reference/react/createContext
+// Learn how to create context to share state across components without prop drilling.
+
+// Context Provider pattern
+// Official React documentation
+// https://react.dev/reference/react/createContext#provider
+// Learn how a Provider supplies shared state and functions to all child components.
+
+// useContext hook
+// Official React documentation
+// https://react.dev/reference/react/useContext
+// Learn how to consume context values inside components and custom hooks.
+
+// Custom hooks pattern
+// Official React documentation
+// https://react.dev/learn/reusing-logic-with-custom-hooks
+// Learn how to wrap logic like useContext inside a custom hook for cleaner usage.
+
+// Throwing errors for invalid hook usage
+// React documentation
+// https://react.dev/learn/reusing-logic-with-custom-hooks#custom-hooks-share-logic-not-state
+// Learn why hooks should enforce correct usage to avoid silent bugs.
+
+// Global state management with Context
+// React documentation
+// https://react.dev/learn/passing-data-deeply-with-context
+// Learn when to use Context for global state instead of prop drilling.
+
+// Integrating localStorage with React state
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+// Learn how browser storage persists data across refreshes and sessions.
+
+// JSON.parse and JSON.stringify
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+// Learn how to safely store and retrieve non-string data in localStorage.
+
+// Immutable state updates
+// React documentation
+// https://react.dev/learn/updating-arrays-in-state
+// Learn how to update arrays using filter, includes, and spread syntax without mutating state.
+
+// useMemo for performance optimization
+// Official React documentation
+// https://react.dev/reference/react/useMemo
+// Learn how memoization prevents unnecessary re-renders when context values change.
+
+// Dependency management in hooks
+// React documentation
+// https://react.dev/learn/synchronizing-with-effects
+// Learn how dependency arrays control when hooks re-run or recompute values.
+
+// Reusable architecture with Context and Hooks
+// React documentation
+// https://react.dev/learn/scaling-up-with-reducer-and-context
+// Learn how this pattern scales for features like favorites, auth, and themes.
