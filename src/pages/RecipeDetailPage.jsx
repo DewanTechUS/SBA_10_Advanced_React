@@ -44,8 +44,8 @@ export default function RecipeDetailPage() {
 
       <h2>Ingredients</h2>
       <ul>
-        {ingredients.map((x) => (
-          <li key={x}>{x}</li>
+        {ingredients.map((ingredient) => (
+          <li key={ingredient}>{ingredient}</li>
         ))}
       </ul>
 
