@@ -175,3 +175,48 @@
 // React documentation
 // https://react.dev/learn/reusing-logic-with-custom-hooks
 // Learn how returning { data, loading, error } creates a clean and predictable API for components.
+
+// Custom React Hooks
+// Official React documentation
+// https://react.dev/learn/reusing-logic-with-custom-hooks
+// Learn how to create reusable logic by building a custom hook like useLocalStorage.
+
+// useState with lazy initialization
+// Official React documentation
+// https://react.dev/reference/react/useState
+// Learn how passing a function to useState runs the initialization only once on the first render.
+
+// localStorage API
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+// Learn how to store and retrieve data in the browser using key–value pairs.
+
+// JSON.parse and JSON.stringify
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+// Learn how to convert JavaScript objects to strings and back when working with localStorage.
+
+// useEffect for side effects
+// Official React documentation
+// https://react.dev/reference/react/useEffect
+// Learn how to run side effects when state or dependencies change.
+
+// useEffect dependency array
+// Official React documentation
+// https://react.dev/learn/synchronizing-with-effects
+// Learn how [key, value] controls when the effect runs.
+
+// Error handling with try and catch
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+// Learn how to prevent the app from crashing when localStorage access or JSON parsing fails.
+
+// Persistent state pattern
+// React documentation
+// https://react.dev/learn/synchronizing-with-effects#fetching-data
+// Learn how to keep state saved across page refreshes and browser sessions.
+
+// Returning state-like values from hooks
+// React documentation
+// https://react.dev/learn/reusing-logic-with-custom-hooks
+// Learn why returning [value, setValue] makes the custom hook work just like useState.
