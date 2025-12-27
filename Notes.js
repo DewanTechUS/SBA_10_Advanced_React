@@ -85,3 +85,43 @@
 // React Router guide
 // https://reactrouter.com/en/main/start/tutorial
 // Learn how to structure routes in a central file and scale routing as the app grows.
+
+// JavaScript template literals
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+// Learn how to build dynamic strings using backticks and ${} for URLs and variables.
+
+// encodeURIComponent
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
+// Learn how to safely encode user input and dynamic values so URLs do not break.
+
+// REST API query parameters
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams
+// Learn how APIs receive data through query strings like ?id=, ?c=, and ?s=.
+
+// JavaScript functions and arrow functions
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+// Learn how functions accept parameters and return values dynamically.
+
+// Object literals in JavaScript
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+// Learn how to group related functions into a single object for organization.
+
+// Separation of concerns (application structure)
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Glossary/Separation_of_concerns
+// Learn why API logic should be separated from UI components.
+
+// TheMealDB API documentation
+// Official API documentation
+// https://www.themealdb.com/api.php
+// Learn what endpoints exist, what parameters they accept, and what data they return.
+
+// Configuration and constants pattern
+// JavaScript best practices
+// https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
+// Learn why constants like API keys and base URLs should be defined once and reused.
