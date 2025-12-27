@@ -50,3 +50,38 @@
 // Example reference
 // https://usehooks.com/useLocalStorage/
 // This helps you reuse logic and keep components clean.
+
+// React Router (Routes and Route)
+// Official documentation
+// https://reactrouter.com/en/main/components/routes
+// Learn how Routes acts as a container for all routes and how each Route maps a URL path to a component.
+
+// Dynamic route parameters
+// Official documentation
+// https://reactrouter.com/en/main/route/route
+// Learn how to define dynamic segments in a URL using colon syntax, such as :id or :categoryName.
+
+// URL parameters with useParams
+// Official documentation
+// https://reactrouter.com/en/main/hooks/use-params
+// Learn how to read dynamic URL values inside a component to load data based on the route.
+
+// Navigation and redirects with Navigate
+// Official documentation
+// https://reactrouter.com/en/main/components/navigate
+// Learn how to redirect users programmatically and handle invalid or unknown routes.
+
+// Layout patterns with shared components
+// React Router documentation
+// https://reactrouter.com/en/main/start/concepts
+// Learn how to keep shared UI elements like navigation bars visible across different pages.
+
+// Single Page Application (SPA) routing concept
+// React documentation
+// https://react.dev/learn/adding-interactivity
+// Learn how React updates the UI without reloading the page while changing views using routing.
+
+// Organizing routes in App.jsx
+// React Router guide
+// https://reactrouter.com/en/main/start/tutorial
+// Learn how to structure routes in a central file and scale routing as the app grows.
