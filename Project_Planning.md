@@ -1,4 +1,9 @@
 # SBA 10 Recipe Discovery App
+## Author
+Dewan Mahmud (Rocky)  
+Software Engineer - Per Scholas (MERN Stack)  
+Advanced React - SBA 10  
+
 # Project Planning
 
 # Project Purpose
