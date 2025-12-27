@@ -125,3 +125,53 @@
 // JavaScript best practices
 // https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
 // Learn why constants like API keys and base URLs should be defined once and reused.
+
+// Custom React Hooks
+// Official React documentation
+// https://react.dev/learn/reusing-logic-with-custom-hooks
+// Learn how to create reusable logic by writing functions that start with use, such as useFetch.
+
+// useState for async state
+// Official React documentation
+// https://react.dev/reference/react/useState
+// Learn how to store data, loading state, and error state during asynchronous operations.
+
+// useEffect and dependencies
+// Official React documentation
+// https://react.dev/reference/react/useEffect
+// Learn how effects run based on dependency changes and why [url] controls when the fetch executes.
+
+// Async logic inside useEffect
+// React documentation
+// https://react.dev/learn/synchronizing-with-effects
+// Learn why async functions are defined inside useEffect and how to safely run them.
+
+// Fetch API
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+// Learn how to make HTTP requests, handle responses, and parse JSON data.
+
+// Error handling with try and catch
+// MDN Web Docs
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+// Learn how to catch network and response errors in asynchronous code.
+
+// Loading state patterns
+// React documentation
+// https://react.dev/learn/synchronizing-with-effects#fetching-data
+// Learn how and when to set loading to true and false during a request lifecycle.
+
+// Effect cleanup functions
+// Official React documentation
+// https://react.dev/reference/react/useEffect#cleaning-up-an-effect
+// Learn how cleanup functions prevent side effects when a component unmounts or dependencies change.
+
+// Avoiding memory leaks in React
+// React documentation
+// https://react.dev/learn/synchronizing-with-effects#race-conditions
+// Learn how cancellation patterns prevent updating state after a component is unmounted.
+
+// Reusable hook return patterns
+// React documentation
+// https://react.dev/learn/reusing-logic-with-custom-hooks
+// Learn how returning { data, loading, error } creates a clean and predictable API for components.
