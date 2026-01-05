@@ -6,6 +6,8 @@ Advanced React - SBA 10
 GitHub: https://github.com/DewanTechUS  
 LinkedIn: https://www.linkedin.com/in/dewan-mahmud-a579a0265/
 
+Live Deploy: https://reactrecipediscoveryapp.netlify.app/
+
 A client-side single-page application (SPA) built with React that allows users to discover recipes, browse by category, search by name, view detailed recipe information, and manage a list of favorite recipes.
 
 This project was completed as part of the **Advanced React SBA** and is designed to demonstrate practical understanding of modern React concepts in a clean, maintainable, and resume-ready application.
