@@ -1,5 +1,3 @@
-
-
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 
@@ -11,6 +9,7 @@ export default function Navbar() {
     e.preventDefault();
     const trimmedQuery = query.trim();
     if (!trimmedQuery) return;
+
     navigate(`/search?query=${encodeURIComponent(trimmedQuery)}`);
     setQuery("");
   }
@@ -25,6 +24,8 @@ export default function Navbar() {
         <nav className="nav-links">
           <Link to="/">Home</Link>
           <Link to="/favorites">Favorites</Link>
+          <Link to="/area">Meals by Country</Link>
+          <Link to="/categories">Meals by Category</Link>
         </nav>
 
         <form className="search" onSubmit={onSubmit}>
