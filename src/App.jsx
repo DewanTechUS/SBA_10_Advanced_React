@@ -1,11 +1,13 @@
 import { Routes, Route, Navigate } from "react-router-dom";
-
 import Navbar from "./components/Navbar";
 import HomePage from "./pages/HomePage";
 import CategoryPage from "./pages/CategoryPage";
 import RecipeDetailPage from "./pages/RecipeDetailPage";
 import FavoritesPage from "./pages/FavoritesPage";
 import SearchResultsPage from "./pages/SearchResultsPage";
+import AreaPage from "./pages/AreaPage";
+import AreasPage from "./pages/AreasPage";
+import CategorySelectorPage from "./pages/CategorySelectorPage";
 
 export default function App() {
   return (
@@ -13,7 +15,11 @@ export default function App() {
       <Navbar />
 
       <Routes>
+        <Route path="/categories" element={<CategorySelectorPage />} />
+        <Route path="/area" element={<AreaPage />} />
+        <Route path="/areas" element={<AreasPage />} />
         <Route path="/" element={<HomePage />} />
+        <Route path="/area/:areaName" element={<AreaPage />} />
         <Route path="/category/:categoryName" element={<CategoryPage />} />
         <Route path="/recipe/:recipeId" element={<RecipeDetailPage />} />
         <Route path="/favorites" element={<FavoritesPage />} />
