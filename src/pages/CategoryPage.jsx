@@ -7,7 +7,15 @@ import RecipeCard from "../components/Recipe/RecipeCard";
 
 export default function CategoryPage() {
   const { categoryName } = useParams();
-  const { data, loading, error } = useFetch(endpoints.filterByCategory(categoryName));
+
+  if (!categoryName) {
+    return <ErrorMessage message="Category name is missing from the URL." />;
+  }
+
+
+  const { data, loading, error } = useFetch(
+    endpoints.filterByCategory(categoryName)
+  );
 
   if (loading) return <Spinner />;
   if (error) return <ErrorMessage message={error} />;
